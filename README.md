@@ -9,4 +9,4 @@ our web site [www.telerion.com](https://www.telerion.com) for more information o
  a free trial account.
 
 For more information please follow
-[telerion SDK API description](https://telerion.github.io/android-quickstart/0.8)
+[telerion SDK API description](https://telerion.github.io/android-quickstart/0.8/index.html)
